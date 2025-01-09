@@ -1,1 +1,1 @@
-# Coling-Workshop-2025
+# CoLing-Workshop-2025

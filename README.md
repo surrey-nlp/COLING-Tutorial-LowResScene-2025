@@ -55,6 +55,11 @@ Despite excellent results on benchmarks over a small subset of languages, large 
 
 ---
 
+## Tutorial Description
+https://arxiv.org/abs/2409.12683
+
+---
+
 ## Citation
 
 ```bibtex

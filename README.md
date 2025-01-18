@@ -12,7 +12,7 @@ The official repo for the tutorial "**Connecting Ideas in *Lower-Resource* Scena
 | <img src="fig/M3image.png" alt="Module 3: Common Ideas in Dataset Creation" width="400"> | Module 3: Common Ideas in Dataset Creation [slide](#) |
 | <img src="fig/M4image.png" alt="Module 4: Common Themes in Understanding" width="400"> | Module 4: Common Themes in Understanding [slide](#) |
 | <img src="fig/M5image.png" alt="Module 5: Common Themes in Generation" width="400"> | Module 5: Common Themes in Generation [slide](#) |
-| <img src="fig/M6image.png" alt="Module 6: Conclusion & Recap" width="400"> | Module 6: Conclusion & Recap [slide](#) |
+| <img src="fig/M6image.png" alt="Module 6: Conclusion & Recap" width="400"> | Module 6: Conclusion / Recap [slide](#) |
 ---
 
 ## Programme

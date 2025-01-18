@@ -6,8 +6,11 @@ The official repo for the tutorial "**Connecting Ideas in *Lower-Resource* Scena
 ---
 
 ## Programme
+
 **Date**: **Mon Jan 20, 2025** (The second day in COLING 2025)  
+
 **Tutorial Type**: In-Person, Full Day from 9:00 AM to 5:30 PM
+
 **Location**: **Conference Hall B (C)** 
 
 | **Time**       | **Session**                                                                                                      |
@@ -24,3 +27,25 @@ The official repo for the tutorial "**Connecting Ideas in *Lower-Resource* Scena
 | 17:00 - 17:30  | **Module 6**: Conclusion & Recap |
 
 ---
+
+## Presenters
+
+|                         |                                                                                           |
+|-------------------------|-------------------------------------------------------------------------------------------|
+| ![Aditya Joshi](fig/aditya.jpg) | <a href="https://tinyurl.com/SbYRrvgAAAAJ" style="color:#D42D50; text-decoration:underline;"><b>Aditya Joshi</b></a><br/>University of New South Wales, Australia.<br/>His research focuses on NLP for English dialects and optimization of NLP models. He has taught large and specialized NLP courses and has presented tutorials at EMNLP (2017) and AACL (2020). |
+| ![Diptesh Kanojia](fig/diptesh.jpg) | <a href="https://tinyurl.com/UNCgCAEAAAAJ" style="color:#D42D50; text-decoration:underline;"><b>Diptesh Kanojia</b></a><br/>University of Surrey, United Kingdom.<br/>Works on quality estimation, social NLP, and low-resource NLP. Previously presented a tutorial on Unsupervised NMT (ICON 2020). Co-organizer for WMT shared tasks on QE and APE. |
+| ![Heather Lent](fig/heather.jpg) | <b>Heather Lent</b><br/>Aalborg University, Denmark.<br/>Postdoctoral researcher focusing on Creole NLP, low-resource domains, and NLP security. Has publications in TACL, ACL, EMNLP, COLING, and LREC. |
+| ![Hour Kaing](fig/hour.jpg) | <a href="https://tinyurl.com/zJ0wGWoAAAAJhl" style="color:#D42D50; text-decoration:underline;"><b>Hour Kaing</b></a><br/>National Institute of Information and Communications Technology (NICT), Japan.<br/>Researcher on linguistic analysis, MT, language modeling, and speech processing. Tutorial presenter at EAMT 2024. |
+| ![Haiyue Song](fig/haiyue.jpg) | <a href="https://shyyhs.github.io/" style="color:#D42D50; text-decoration:underline;"><b>Haiyue Song</b></a><br/>National Institute of Information and Communications Technology (NICT), Japan.<br/>Ph.D. from Kyoto University. Interests: MT, LLMs, subword segmentation, and decoding. Previously presented a tutorial at EAMT 2024. |
+
+---
+
+## Citation
+
+```bibtex
+@misc{joshi2025colingtutorial,
+Author = {Aditya Joshi and Diptesh Kanojia and Heather Lent and Hour Kaing and Haiyue Song},
+Title = {Connecting Ideas in 'Lower-Resource' Scenarios: NLP for National Varieties, Creoles and Other Low-resource Scenarios},
+Year = {2024},
+Eprint = {arXiv:2409.12683},
+}

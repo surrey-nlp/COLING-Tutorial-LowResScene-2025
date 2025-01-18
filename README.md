@@ -4,17 +4,6 @@ The official repo for the tutorial "**Connecting Ideas in *Lower-Resource* Scena
 <!---
 <img src="fig/banner.png" alt="Tutorial Banner" width="1000" />
 -->
-## Slides 
-| | |
-|-|-|
-| <img src="fig/M1image.png" alt="Module 1: Introduction" width="400"> | Module 1: Introduction [slide](#) |
-| <img src="fig/M2image.png" alt="Module 2: Emerging Connections" width="400"> | Module 2: Emerging Connections [slide](#) |
-| <img src="fig/M3image.png" alt="Module 3: Common Ideas in Dataset Creation" width="400"> | Module 3: Common Ideas in Dataset Creation [slide](#) |
-| <img src="fig/M4image.png" alt="Module 4: Common Themes in Understanding" width="400"> | Module 4: Common Themes in Understanding [slide](#) |
-| <img src="fig/M5image.png" alt="Module 5: Common Themes in Generation" width="400"> | Module 5: Common Themes in Generation [slide](#) |
-| <img src="fig/M6image.png" alt="Module 6: Conclusion & Recap" width="400"> | Module 6: Conclusion / Recap [slide](#) |
----
-
 ## Programme
 
 **Date**: **Mon Jan 20, 2025** (The second day in COLING 2025)  
@@ -36,6 +25,16 @@ The official repo for the tutorial "**Connecting Ideas in *Lower-Resource* Scena
 | 16:00 - 17:00  | **Module 5 (Continued)** |
 | 17:00 - 17:30  | **Module 6**: Conclusion & Recap |
 
+---
+## Slides 
+| | |
+|-|-|
+| <img src="fig/M1image.png" alt="Module 1: Introduction" width="400"> | Module 1: Introduction [slide](#) |
+| <img src="fig/M2image.png" alt="Module 2: Emerging Connections" width="400"> | Module 2: Emerging Connections [slide](#) |
+| <img src="fig/M3image.png" alt="Module 3: Common Ideas in Dataset Creation" width="400"> | Module 3: Common Ideas in Dataset Creation [slide](#) |
+| <img src="fig/M4image.png" alt="Module 4: Common Themes in Understanding" width="400"> | Module 4: Common Themes in Understanding [slide](#) |
+| <img src="fig/M5image.png" alt="Module 5: Common Themes in Generation" width="400"> | Module 5: Common Themes in Generation [slide](#) |
+| <img src="fig/M6image.png" alt="Module 6: Conclusion & Recap" width="400"> | Module 6: Conclusion / Recap [slide](#) |
 ---
 
 ## Presenters

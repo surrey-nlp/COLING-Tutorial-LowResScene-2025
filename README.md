@@ -30,12 +30,12 @@ The official repo for the tutorial "**Connecting Ideas in *Lower-Resource* Scena
 ## Slides 
 | | |
 |-|-|
-| <img src="fig/M1image.png" alt="Module 1: Introduction" width="400"> | Module 1: Introduction [slide](#) |
-| <img src="fig/M2image.png" alt="Module 2: Emerging Connections" width="400"> | Module 2: Emerging Connections [slide](#) |
-| <img src="fig/M3image.png" alt="Module 3: Common Ideas in Dataset Creation" width="400"> | Module 3: Common Ideas in Dataset Creation [slide](#) |
-| <img src="fig/M4image.png" alt="Module 4: Common Themes in Understanding" width="400"> | Module 4: Common Themes in Understanding [slide](#) |
-| <img src="fig/M5image.png" alt="Module 5: Common Themes in Generation" width="400"> | Module 5: Common Themes in Generation [slide](#) |
-| <img src="fig/M6image.png" alt="Module 6: Conclusion & Recap" width="400"> | Module 6: Conclusion / Recap [slide](#) |
+| <img src="fig/M1image.png" alt="Module 1: Introduction" width="400"> | Module 1: Introduction [[slide]](https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025/blob/main/slides/Module%201.pdf) |
+| <img src="fig/M2image.png" alt="Module 2: Emerging Connections" width="400"> | Module 2: Emerging Connections [[slide]](https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025/blob/main/slides/Module%202.pdf) |
+| <img src="fig/M3image.png" alt="Module 3: Common Ideas in Dataset Creation" width="400"> | Module 3: Common Ideas in Dataset Creation [[slide]](https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025/blob/main/slides/Module%203.pdf) |
+| <img src="fig/M4image.png" alt="Module 4: Common Themes in Understanding" width="400"> | Module 4: Common Themes in Understanding [[slide]](https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025/blob/main/slides/Module%204.pdf) |
+| <img src="fig/M5image.png" alt="Module 5: Common Themes in Generation" width="400"> | Module 5: Common Themes in Generation [[slide]](https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025/blob/main/slides/Module%205.pdf) |
+| <img src="fig/M6image.png" alt="Module 6: Conclusion & Recap" width="400"> | Module 6: Conclusion / Recap [[slide]](https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025/blob/main/slides/Module%206.pdf) |
 ---
 
 ## Presenters

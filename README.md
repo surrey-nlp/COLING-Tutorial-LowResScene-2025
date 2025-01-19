@@ -14,13 +14,14 @@ The official repo for the tutorial "**Connecting Ideas in *Lower-Resource* Scena
 
 | **Time**       | **Session**                                                                                                      |
 |----------------|-------------------------------------------------------------------------------------------------------------------|
-| 09:00 - 9:45  | **Module 1**: Introduction |
+| 09:00 - 9:45   | **Module 1**: Introduction |
 | 09:45 - 10:30  | **Module 2**: Emerging Connections |
 | 10:30 - 11:00  | **Coffee Break**                                                                                                  |
-| 11:00 - 12:00  | **Module 3**: Common Ideas in Dataset Creation |
-| 12:00 - 13:00  | **Lunch Break**                                                                                                   |
-| 13:00 - 14:30  | **Module 4**: Common Themes in Understanding |
-| 14:30 - 15:30  | **Module 5**: Common Themes in Generation |
+| 11:00 - 11:45  | **Module 3**: Common Ideas in Dataset Creation |
+| 11:45 - 12:30  | **Module 4**: Common Themes in Understanding |
+| 12:30 - 14:00  | **Lunch Break**                                                                                                   |
+| 14:00 - 14:45  | **Module 4: (Continued)** |
+| 14:45 - 15:30  | **Module 5**: Common Themes in Generation |
 | 15:30 - 16:00  | **Coffee Break**                                                                                                  |
 | 16:00 - 17:00  | **Module 5 (Continued)** |
 | 17:00 - 17:30  | **Module 6**: Conclusion & Recap |
